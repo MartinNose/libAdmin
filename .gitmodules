@@ -1,0 +1,6 @@
+[submodule "libAdmin_frontend"]
+	path = libAdmin_frontend
+	url = https://github.com/MartinNose/libAdmin_frontend
+[submodule "libAdmin_backend"]
+	path = libAdmin_backend
+	url = https://github.com/MartinNose/libAdmin_backend
